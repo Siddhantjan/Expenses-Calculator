@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ExpenseTracker/static/css/main.e0beca38.css",
-    "main.js": "/ExpenseTracker/static/js/main.57bfca53.js",
-    "static/js/787.00b13d76.chunk.js": "/ExpenseTracker/static/js/787.00b13d76.chunk.js",
-    "index.html": "/ExpenseTracker/index.html",
-    "main.e0beca38.css.map": "/ExpenseTracker/static/css/main.e0beca38.css.map",
-    "main.57bfca53.js.map": "/ExpenseTracker/static/js/main.57bfca53.js.map",
-    "787.00b13d76.chunk.js.map": "/ExpenseTracker/static/js/787.00b13d76.chunk.js.map"
+    "main.css": "/Expenses-Calculator/static/css/main.e0beca38.css",
+    "main.js": "/Expenses-Calculator/static/js/main.2a3dd580.js",
+    "static/js/787.00b13d76.chunk.js": "/Expenses-Calculator/static/js/787.00b13d76.chunk.js",
+    "index.html": "/Expenses-Calculator/index.html",
+    "main.e0beca38.css.map": "/Expenses-Calculator/static/css/main.e0beca38.css.map",
+    "main.2a3dd580.js.map": "/Expenses-Calculator/static/js/main.2a3dd580.js.map",
+    "787.00b13d76.chunk.js.map": "/Expenses-Calculator/static/js/787.00b13d76.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e0beca38.css",
-    "static/js/main.57bfca53.js"
+    "static/js/main.2a3dd580.js"
   ]
 }
